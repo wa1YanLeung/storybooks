@@ -4,7 +4,7 @@
 
 https://storybooks21.herokuapp.com/
 
-I learnt this app from youTube channel Traversy Media. 
+I learnt this app from YouTube channel Traversy Media. 
 This app uses Node.js/Express/MongoDB with Google OAuth for authentication. 
 
 ## Usage
